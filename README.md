@@ -4,8 +4,12 @@ Part 1 of the Spectogram classification project using transfer learning in MATLA
 Spectogram images of 14 musical instruments trained on GoogLeNet.
 Dataset split into 80% training, 10% validation, balance test.
 
-The execution can be viewed using the PDF/HTML files
+The full execution can be viewed using the PDF/HTML files.
+
+Sample from dataset - spectogram images of piano -
 
 ![Dataset sample spectogram images of Piano](https://github.com/khush777/SpectogramClassificationTransferLearning/blob/main/images/painoSample.PNG)
 
-![Model Training Progress](https://github.com/khush777/SpectogramClassificationTransferLearning/images/trp.png)
+Training Progress - 
+
+![Model Training Progress](https://github.com/khush777/SpectogramClassificationTransferLearning/blob/main/images/trp.PNG)
