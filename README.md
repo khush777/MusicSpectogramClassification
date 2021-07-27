@@ -6,6 +6,6 @@ Dataset split into 80% training, 10% validation, balance test.
 
 The execution can be viewed using the PDF/HTML files
 
-![Dataset sample spectogram images of Piano](SpectogramClassificationTransferLearning/images/pianoSample.png)
+![Dataset sample spectogram images of Piano](khush777/SpectogramClassificationTransferLearning/images/pianoSample.png)
 
-![Model Training Progress](SpectogramClassificationTransferLearning/images/trp.png)
+![Model Training Progress](khush777/SpectogramClassificationTransferLearning/images/trp.png)
