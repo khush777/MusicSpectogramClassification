@@ -1,12 +1,13 @@
 # SpectogramClassificationTransferLearning
-Part 1 of the Spectogram classification project using transfer learning in MATLAB.
+Deep Learning project in MATLAB.
 
-Spectogram images of 14 musical instruments trained using neural networks.
+Spectogram images of 14 musical instruments trained on neural networks.
 
-Dataset split into 80% training, 10% validation, balance test.
+Dataset split into 80% training, 10% validation, 10% test.
 
 
-Folder contents -
+Folder description -
+
 Soln - Transfer Learning using GoogLeNet 
 
 Part 2 - CNN created from scratch
