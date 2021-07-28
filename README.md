@@ -1,4 +1,4 @@
-# SpectogramClassificationTransferLearning
+# CNN DL NN
 Deep Learning project in MATLAB.
 
 Spectogram images of 14 musical instruments trained on neural networks.
