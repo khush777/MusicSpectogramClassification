@@ -5,6 +5,6 @@ Spectograms are visual representations of sound signals at different frequencies
 
 This project has two parts -
 
-1. Music spectogram classification using CNN 
+1. Music spectogram classification [using CNN ](https://github.com/khushboo-gehi/MusicSpectogramClassification/blob/main/Part%202/scratch.pdf)
  
-2. Music spectogram using Transfer Learning
+2. Music spectogram classification [using Transfer Learning](https://github.com/khushboo-gehi/MusicSpectogramClassification/blob/main/Soln/transfer_learning.pdf)
